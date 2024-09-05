@@ -7,7 +7,6 @@
 -   [GitHub](https://github.com/MatsRodionDev?tab=repositories)
 -   [Telegram](https://t.me/Matsonya_1")
 -   [Gmail](https://rodion.mats11@gmail.com)
--   [Instagram](https://www.instagram.com/mishk_a_8)
 
 ---
 
