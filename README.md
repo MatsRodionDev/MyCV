@@ -5,7 +5,7 @@
 ## Contacts
 
 -   [GitHub](https://github.com/MatsRodionDev?tab=repositories)
--   [Telegram](https://t.me/Matsonya_1")
+-   [Telegram](https://t.me/Matsonya_1)
 -   [Gmail](https://rodion.mats11@gmail.com)
 
 ---
