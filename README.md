@@ -32,4 +32,4 @@
     5.  JS
     6.  Docker
     7.  Git
-    8.	Redis
+    8.  Redis
